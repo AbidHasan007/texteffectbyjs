@@ -1,0 +1,59 @@
+body{
+    background: #12232E;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#hi{
+    font-size: 150px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: crimson;
+}
+#txt{
+    font-size: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #FFD6cf; 
+}
+h1{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: crimson;
+}
+#text{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#03A062;
+}
+#description{
+    color:white;
+}
+label{
+    color:white;
+    font-size: 20px;
+}
+input{
+    background-color: #12232E;
+    color:#03A062;
+    border: none;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 100;
+}
+section{
+    margin-top: 20px;
+    margin-left: 5px;
+}
+section .right .cv{
+    text-decoration: none;
+    color:white;
+    padding: 8px 8px 8px 8px;
+    border: 2px #03A062 solid;
+    border-radius: 5px;
+}
+
+section .right .cv:hover{
+    text-decoration: none;
+    background-color: #03A062;
+    color:white;
+    padding: 8px 8px 8px 8px;
+    border: 2px crimson solid;
+    border-radius: 5px;
+}
